@@ -1,5 +1,10 @@
 # HAL 9000 — Waze Voicepack Prompt List
 
+This voicepack can be installed by opening this link:
+
+[Install Voicepack](https://waze.com/ul?acvp=ccb8cdbd-dc4e-4ade-9999-3978555221bb)
+
+
 | Filename | Prompt |
 |---|---|
 | `StartDrive1.mp3` | Everything is going extremely well, we can go |
